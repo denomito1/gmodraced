@@ -1,0 +1,9 @@
+"raced"
+{
+    "base"          "flame"
+    "title"            "Raced"
+    "author"        "denomito"
+    "version"        "0.1.0"
+    "category"        "other"
+    "menusystem"    "1"
+}
